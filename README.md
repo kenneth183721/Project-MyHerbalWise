@@ -20,14 +20,14 @@ Registration and Login functions require running npm run server on your local co
 
 ## Key Features & Implementation
 
-# Search & Filtering
+## Search & Filtering
 Real-time input capture with debounced search.
 Client-side dataset filtering using array methods ( filter ,  map ).
 
-# Herb Details Modal
+## Herb Details Modal
 Dynamic popup displaying categorized data (type, properties, functions, usage instructions).
 
-# Post-Login
+## Post-Login
 - TCM Constitution Assessment: Questionnaire‑driven quiz analyzing user responses to classify constitution (e.g., cold, hot, qi deficiency). Results trigger personalized dietary plans by constitution, symptoms, and seasonal factors (24 solar terms).
 - Symptom Tracking: Daily symptom logging with historical data.
 - Diet Logging: Time-stamped meal records for health.
