@@ -26,6 +26,6 @@ This project demonstrates the transition from a high-fidelity design to a scalab
 ## 📂 Getting Started
 1. Clone the repo: git clone https://github.com/your-username/myherbalwise.git
 2. Install dependencies: npm install
-3. Run the app: npm start
-4. Run the server: npm run server
+3. Run the server: npm run server
+4. Run the app: npm start
 
