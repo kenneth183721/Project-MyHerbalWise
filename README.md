@@ -1,4 +1,4 @@
-# Description
+## MyHerbalWise
 
 A production-ready web application designed to help users search and filter herbal information with real-time feedback and high performance.
 
