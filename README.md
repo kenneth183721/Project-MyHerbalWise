@@ -1,4 +1,4 @@
-## MyHerbalWise
+## MyHerbalWise - Full-stack Chinese herbal medicine search application
 
 A production-ready web application designed to help users search and filter herbal information with real-time feedback and high performance.
 
